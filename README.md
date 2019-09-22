@@ -1,2 +1,3 @@
 # ARUW-Target-Recognition
-v2.cpp contains final product
+
+Compile v2.cpp to visualize the target recognition of a target plate in the image or frame by frame in a video feed.
